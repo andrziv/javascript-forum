@@ -1,0 +1,326 @@
+html{
+    background: rgb(30, 30, 30);
+}
+#rootBackground{
+    background: rgb(30, 30, 30);
+}
+
+#website-navbar{
+    background-color: rgb(27, 27, 27);
+}
+
+#navbarButton1{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: center;
+    width: auto;
+    height: 100%;
+    border-color: rgb(27, 27, 27);
+    background-color: rgb(37, 37, 38);
+}
+#navbarButton1:hover{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: center;
+    width: auto;
+    border-color: rgb(27, 27, 27);
+    background-color: rgb(61, 61, 63);
+}
+#navbarButton2{
+    color:rgb(168, 168, 168);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    width: auto;
+    border-color: rgb(27, 27, 27);
+    background-color: rgb(37, 37, 38);
+}
+#navbarButton2:hover{
+    color:rgb(168, 168, 168);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    width: auto;
+    border-color: rgb(27, 27, 27);
+    background-color: rgb(61, 61, 63);
+}
+#usernameIndicator{
+    color:rgb(168, 168, 168);
+    border-radius: 5px;
+    text-align: center;
+    width: auto;
+    margin-left: 5%;
+    padding: 1%;
+    border-color: rgb(27, 27, 27);
+    background-color: rgb(37, 37, 38);
+}
+.listPost{
+    color: aliceblue;
+    background: rgb(37, 37, 38);
+    border: 0.5px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(37, 37, 38);
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.listPost:hover{
+    color: aliceblue;
+    background: rgb(50, 50, 51);
+    border: 0.5px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(61, 61, 61);
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.listPostAuthored{
+    color: aliceblue;
+    background: rgb(37, 37, 38);
+    border: 2.5px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(178, 241, 228);
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.listPostAuthored:hover{
+    color: aliceblue;
+    background: rgb(50, 50, 51);
+    border: 2.5px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(114, 156, 148);
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#lpAuthTextDetails{
+    color: aliceblue;
+}
+#lpAuthTextDetails:hover{
+    color: aliceblue;
+}
+#lpParagraph{
+    color:rgb(147, 152, 156);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.threadPost{
+    color: aliceblue;
+    background: rgb(37, 37, 38);
+    border: 0px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(37, 37, 38);
+    margin: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.postComment{
+    color: aliceblue;
+    background: rgb(28, 28, 29);
+    border: 0px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(37, 37, 38);
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 0.1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.post-banner{
+    color: aliceblue;
+}
+
+.form-group{
+    color:aliceblue;
+}
+
+#commentTextbox{
+    color:aliceblue;
+    background-color: rgb(68, 68, 70);
+    border-color: rgb(28, 28, 29);
+    height: 4em;
+}
+
+#commentSubmit{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-color: rgb(28, 28, 29);
+    background-color: rgb(28, 28, 29);
+    height: 4em;
+}
+#commentSubmit:hover{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-color: rgb(64, 64, 66);
+    background-color: rgb(64, 64, 66);
+    height: 4em;
+}
+
+img.threadPostPicture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#listPostEditButton{
+    color:rgb(168, 168, 168);
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: rgb(28, 28, 29);
+    background-color: rgb(28, 28, 29);
+}
+#listPostEditButton:hover{
+    color:rgb(168, 168, 168);
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: rgb(54, 65, 44);
+    background-color: rgb(56, 65, 47);
+}
+#listPostDeleteButton{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-color: rgb(28, 28, 29);
+    background-color: rgb(28, 28, 29);
+}
+#listPostDeleteButton:hover{
+    color:rgb(168, 168, 168);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-color: rgb(71, 48, 47);
+    background-color: rgb(71, 52, 51);
+}
+
+#post-form,
+#login-form,
+#new-account-form{
+    color: aliceblue;
+    background: rgb(37, 37, 38);
+    border: 0px;
+    border-style:solid;
+    border-radius: 0.5em;
+    border-color: rgb(37, 37, 38);
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 15px;
+}
+
+#loginUsername,
+#loginPassword,
+#signupUsername,
+#signupEmail,
+#signupPassword,
+#createpost-staticUsername,
+#createpost-title,
+#createpost-body,
+#create-post-image,
+.form-control{
+    color:rgb(168, 168, 168);
+    background: rgb(49, 49, 51);
+    border-color: rgb(28, 28, 29);
+}
+#loginUsername:focus,
+#loginPassword:focus,
+#signupUsername:focus,
+#signupEmail:focus,
+#signupPassword:focus,
+#createpost-staticUsername:focus,
+#createpost-title:focus,
+#createpost-body:focus,
+#create-post-image:focus,
+.form-control:focus{
+    color:rgb(168, 168, 168);
+    background: rgb(67, 67, 73);
+    border-color: rgb(28, 28, 29);
+}
+.account-form-group{
+    margin-bottom: 10px;
+}
+#edit-post-button,
+#create-post-button,
+#login-button,
+#new-account-button{
+    width:100%;
+    color:rgb(168, 168, 168);
+    border-color: rgb(28, 28, 29);
+    background-color: rgb(28, 28, 29);
+}
+#edit-post-button:hover,
+#create-post-button:hover,
+#login-button:hover,
+#new-account-button:hover{
+    width:100%;
+    color:rgb(168, 168, 168);
+    border-color: rgb(64, 64, 66);
+    background-color: rgb(64, 64, 66);
+}
+.post-banner{
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgb(27, 27, 27);
+}
+#rememberBox{
+    background-color: rgb(64, 64, 66);
+    border-color: rgb(27, 27, 27);
+}
+#rememberBox:checked{
+    background-color: rgb(27, 27, 27);
+    border-color: rgb(27, 27, 27);
+}
+
+#createpost-staticUsername{
+    color:rgb(168, 168, 168);
+    background: rgb(49, 49, 51);
+    border-radius: 5px;
+    border:0px;
+    padding-left:12px;
+}
+
+#create-post-image{
+    width:50%;
+    height:1.5em;
+    color:rgb(168, 168, 168);
+    background: rgb(49, 49, 51);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-left:12px;
+    border:0px;
+}
+#create-post-image:hover{
+    width:50%;
+    height:1.5em;
+    color:rgb(168, 168, 168);
+    background: rgb(93, 93, 97);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-left:12px;
+    border:0px;
+}
+::file-selector-button {
+    display: none;
+  }
